@@ -1,0 +1,7 @@
+{
+  "name": "Pluto Skill Creator",
+  "description": "A high-end developer portal for building, managing, and documenting Agent Skills. Powered by the Pluto Architect (Gemini AI).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
